@@ -1,0 +1,10 @@
+DROP TABLE `nrs_estetica1`.`servicos_agedamentos`;
+DROP TABLE `nrs_estetica1`.`servicos`;
+DROP TABLE `nrs_estetica1`.`agendamentos`;
+DROP TABLE `nrs_estetica1`.`agendamentos`;
+DROP TABLE `nrs_estetica1`.`socios`;
+DROP TABLE `nrs_estetica1`.`clientes`;
+DROP TABLE `nrs_estetica1`.`socios`;
+DROP TABLE `nrs_estetica1`.`pessoas`;
+DROP TABLE `nrs_estetica1`.`empresas`;
+drop database `nrs_estetica1`;
