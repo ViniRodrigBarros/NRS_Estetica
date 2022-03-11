@@ -1,4 +1,5 @@
 select * from empresas;
+
 select * from clientes;
 select * from socios;
 select * from servicos;
